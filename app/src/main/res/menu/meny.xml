@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="@string/item1"
+          android:id="@+id/one_item"
+          />
+    <item android:title="@string/item2"
+          android:id="@+id/two_item"/>
+
+    <item android:title="forth activty"
+          android:id="@+id/three_item"/>
+
+    <item android:title="fifth  activty"
+        android:id="@+id/four_item"/>
+
+    <item android:title="sixth  activty"
+        android:id="@+id/fifth_item"/>
+
+    <item android:title="@string/item3"
+          android:id="@+id/last_item"/>
+
+</menu>
